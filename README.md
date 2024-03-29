@@ -45,5 +45,5 @@ python app.py
 http://localhost:5000
 ```
 
-<h2>Contributing</h2>
+<h2>Contribution</h2>
 Contributions to the Password Strength Checker project are welcome! If you have any ideas for improvements, feature requests, or bug reports, please feel free to open an issue or submit a pull request. Your contributions will help make the application more robust and beneficial for users.
